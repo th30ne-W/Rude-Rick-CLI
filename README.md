@@ -9,10 +9,11 @@ Export character information to an Excel file.
 Experience the unique 'Rude Rick' commentary style throughout the application.
 
 Requirements
+
 Python 3.10
+
 Libraries:
-requests
-openpyxl
+requests and openpyxl
 
 Disclaimer
 This application is intended for entertainment purposes and should be used responsibly. The 'Rude Rick' commentary is designed to mimic the character's style from the show and is not meant to offend.
